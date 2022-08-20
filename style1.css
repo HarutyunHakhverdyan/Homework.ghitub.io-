@@ -1,0 +1,11 @@
+#divCont{
+	display: flex;
+	flex-direction: column;
+	background-color: red;
+	height: 100vh
+}
+h1{
+	display: flex;
+	justify-content: center;
+	color: aqua
+}

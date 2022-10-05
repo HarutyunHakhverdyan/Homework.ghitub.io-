@@ -1,7 +1,7 @@
 #divCont{
 	display: flex;
 	flex-direction: column;
-	background-color: rgb(84, 173, 136);
+	background-color: rgb(185, 107, 43);
 	height: 100vh;
 	font-size: 30px;
 }

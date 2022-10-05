@@ -1,8 +1,9 @@
 #divCont{
 	display: flex;
 	flex-direction: column;
-	background-color: red;
-	height: 100vh
+	background-color: rgb(84, 173, 136);
+	height: 100vh;
+	font-size: 30px;
 }
 h1{
 	display: flex;
